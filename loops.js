@@ -8,8 +8,8 @@ function forLoop(array) {
   }
 }
 
-var array = []
-console.log(forLoop(array))
+var testArray = ["test"]
+console.log(forLoop(testArray))
 
 
 while ([])
