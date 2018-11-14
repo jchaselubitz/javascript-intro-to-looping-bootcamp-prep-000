@@ -11,6 +11,7 @@ function forLoop(array) {
 var testArray = ["test"]
 console.log(forLoop(testArray))
 
+
 function whileLoop(number) {
   while (number > 0) {
     console.log(--number)
