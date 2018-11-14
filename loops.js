@@ -6,7 +6,10 @@ function forLoop(array) {
       return array.push(`"I am ${i} strange loops."`)
     }
   }
-  return array
 }
+
+var array = []
+console.log(forloop(array))
+
 
 while ([])
