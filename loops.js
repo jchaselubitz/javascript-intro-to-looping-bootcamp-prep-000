@@ -9,7 +9,7 @@ function forLoop(array) {
 }
 
 var array = []
-console.log(forloop(array))
+console.log(forLoop(array))
 
 
 while ([])
