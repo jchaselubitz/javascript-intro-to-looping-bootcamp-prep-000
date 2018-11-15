@@ -31,5 +31,4 @@ function doWhileLoop(array) {
     array.pop()
     return array
   } while (array.length > 0 && incrementVariable())
-} 
-
+}
