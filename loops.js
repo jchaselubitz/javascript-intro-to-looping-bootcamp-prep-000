@@ -7,7 +7,7 @@ function forLoop(array) {
     }
     return array
   }
-  
+
 }
 
 var testArray = ["test"]
