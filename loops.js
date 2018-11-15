@@ -13,7 +13,7 @@ var testArray = []
 
 forLoop(testArray)
 
-console.log(testArray[0])
+console.log(testArray)
 
 
 
