@@ -13,14 +13,8 @@ var testArray = []
 
 forLoop(testArray)
 
-//console.log(testArray)
+console.log(testArray)
 
-
-function forloop() {
-for (var i = 1; i < 10; i++) {
-  console.log(`"Hello World the " + i + " time"`);
-}
-}
 
 
 function whileLoop(number) {
