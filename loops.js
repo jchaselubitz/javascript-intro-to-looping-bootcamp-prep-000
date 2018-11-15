@@ -9,7 +9,7 @@ function forLoop(array) {
    return array
 }
 
-var testArray = ["test"]
+var testArray = []
 
 forLoop(testArray)
 
