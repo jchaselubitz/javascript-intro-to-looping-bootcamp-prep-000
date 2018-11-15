@@ -21,3 +21,14 @@ function whileLoop(number) {
     }
   }
 }
+
+function incrementVariable() {
+  i = i + 1;
+}
+
+function doWhileLoop(array) {
+  do {
+    array.pop()
+    return array
+  } while (array.length > 0 && incrementVariable())
+} 
