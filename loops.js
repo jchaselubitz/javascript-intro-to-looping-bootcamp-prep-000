@@ -10,7 +10,10 @@ function forLoop(array) {
 }
 
 var testArray = ["test"]
-console.log(forLoop(testArray))
+
+forLoop(testArray)
+
+console.log(testArray)
 
 
 function whileLoop(number) {
